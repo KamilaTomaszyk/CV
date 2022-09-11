@@ -1,0 +1,121 @@
+body {
+  background: #fcf1f1;
+  font-family: "Montserrat", sans-serif;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  justify-content: center;
+  margin: auto;
+  background: white;
+  box-shadow: 12px 12px 40px rgb(0, 0, 0, 0.1);
+}
+aside {
+  width: 370px;
+  background: #1e2939;
+}
+.cv-photo {
+  margin-top: 25px;
+}
+.header-secondary {
+  color: #ffffff;
+}
+.contact-links {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration: none;
+}
+.bold {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+}
+.list-secondary {
+  color: #fb6d3a;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 0;
+  margin: 0;
+  list-style-position: inside;
+}
+.list-secondary-item {
+  color: #ffffff;
+}
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+.tech-skills-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+.soft-skills-block {
+  margin-top: 44px;
+  margin-left: 40px;
+}
+main {
+  padding: 102px 217px 102px 88px;
+}
+.main-description {
+  width: 400px;
+  margin-bottom: 40px;
+}
+h1 {
+  font-size: 45px;
+  line-height: 55px;
+  font-weight: 700;
+}
+.title-job {
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 700;
+}
+.description {
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.projects {
+  width: 485px;
+  margin-bottom: 51px;
+}
+.list-primary {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-primary-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+  list-style-position: outside;
+  padding-left: 21px;
+  padding-bottom: 16px;
+}
+.header-primary {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 12 px;
+}
+.job-name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+.hightlight {
+  color: #fb6d3a;
+}
+.job-date {
+  color: #a8a8a8;
+  font-size: 12px;
+  line-height: 15px;
+  margin-top: 11px;
+}
